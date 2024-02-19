@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/build_for_bharat_solution/static/css/main.8141ca42.css",
-    "main.js": "/build_for_bharat_solution/static/js/main.f8424c14.js",
+    "main.js": "/build_for_bharat_solution/static/js/main.8a960d30.js",
     "static/css/819.6a428b2c.chunk.css": "/build_for_bharat_solution/static/css/819.6a428b2c.chunk.css",
     "static/js/819.7e344d07.chunk.js": "/build_for_bharat_solution/static/js/819.7e344d07.chunk.js",
     "static/css/766.0f84a160.chunk.css": "/build_for_bharat_solution/static/css/766.0f84a160.chunk.css",
-    "static/js/766.cdb74d8c.chunk.js": "/build_for_bharat_solution/static/js/766.cdb74d8c.chunk.js",
-    "static/js/137.1cfa52f0.chunk.js": "/build_for_bharat_solution/static/js/137.1cfa52f0.chunk.js",
+    "static/js/766.667d0c8d.chunk.js": "/build_for_bharat_solution/static/js/766.667d0c8d.chunk.js",
+    "static/js/137.67b46787.chunk.js": "/build_for_bharat_solution/static/js/137.67b46787.chunk.js",
     "static/css/851.b29b2272.chunk.css": "/build_for_bharat_solution/static/css/851.b29b2272.chunk.css",
-    "static/js/851.7ab69132.chunk.js": "/build_for_bharat_solution/static/js/851.7ab69132.chunk.js",
+    "static/js/851.725c10d6.chunk.js": "/build_for_bharat_solution/static/js/851.725c10d6.chunk.js",
     "static/js/787.723be057.chunk.js": "/build_for_bharat_solution/static/js/787.723be057.chunk.js",
-    "static/js/113.b9afb9b2.chunk.js": "/build_for_bharat_solution/static/js/113.b9afb9b2.chunk.js",
+    "static/js/287.b3fb8ce1.chunk.js": "/build_for_bharat_solution/static/js/287.b3fb8ce1.chunk.js",
     "static/media/single-sofa-01.jpg": "/build_for_bharat_solution/static/media/single-sofa-01.066a994d36d7ee59a0e0.jpg",
     "static/media/single-sofa-03.jpg": "/build_for_bharat_solution/static/media/single-sofa-03.19d776d13fcee69a7765.jpg",
     "static/media/arm-chair-03.jpg": "/build_for_bharat_solution/static/media/arm-chair-03.726a783a7751afc13d8e.jpg",
@@ -43,19 +43,19 @@
     "static/media/slick.woff": "/build_for_bharat_solution/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/build_for_bharat_solution/index.html",
     "main.8141ca42.css.map": "/build_for_bharat_solution/static/css/main.8141ca42.css.map",
-    "main.f8424c14.js.map": "/build_for_bharat_solution/static/js/main.f8424c14.js.map",
+    "main.8a960d30.js.map": "/build_for_bharat_solution/static/js/main.8a960d30.js.map",
     "819.6a428b2c.chunk.css.map": "/build_for_bharat_solution/static/css/819.6a428b2c.chunk.css.map",
     "819.7e344d07.chunk.js.map": "/build_for_bharat_solution/static/js/819.7e344d07.chunk.js.map",
     "766.0f84a160.chunk.css.map": "/build_for_bharat_solution/static/css/766.0f84a160.chunk.css.map",
-    "766.cdb74d8c.chunk.js.map": "/build_for_bharat_solution/static/js/766.cdb74d8c.chunk.js.map",
-    "137.1cfa52f0.chunk.js.map": "/build_for_bharat_solution/static/js/137.1cfa52f0.chunk.js.map",
+    "766.667d0c8d.chunk.js.map": "/build_for_bharat_solution/static/js/766.667d0c8d.chunk.js.map",
+    "137.67b46787.chunk.js.map": "/build_for_bharat_solution/static/js/137.67b46787.chunk.js.map",
     "851.b29b2272.chunk.css.map": "/build_for_bharat_solution/static/css/851.b29b2272.chunk.css.map",
-    "851.7ab69132.chunk.js.map": "/build_for_bharat_solution/static/js/851.7ab69132.chunk.js.map",
+    "851.725c10d6.chunk.js.map": "/build_for_bharat_solution/static/js/851.725c10d6.chunk.js.map",
     "787.723be057.chunk.js.map": "/build_for_bharat_solution/static/js/787.723be057.chunk.js.map",
-    "113.b9afb9b2.chunk.js.map": "/build_for_bharat_solution/static/js/113.b9afb9b2.chunk.js.map"
+    "287.b3fb8ce1.chunk.js.map": "/build_for_bharat_solution/static/js/287.b3fb8ce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8141ca42.css",
-    "static/js/main.f8424c14.js"
+    "static/js/main.8a960d30.js"
   ]
 }
