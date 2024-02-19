@@ -32,7 +32,6 @@ function App() {
           <Route path="/shop/:id" element={<Product />} />
           <Route path="/cart" element={<Cart />} />
         </Routes>
-        <Footer />
       </Router>
     </Suspense>
   );
