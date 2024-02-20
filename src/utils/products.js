@@ -93,7 +93,7 @@ export const discoutProducts = [
     productName: "Stone and Beam Westview Sofa",
     imgUrl: productImg01,
     category: "sofa",
-    price: 193,
+    price: 1930,
     discount: 30,
     shortDesc: "A comfortable and stylish sofa for your living room.",
     description: "Stone and Beam Westview sofa offers a perfect blend of comfort and style. Its modern design and high-quality materials make it an ideal choice for any home.",
@@ -110,7 +110,7 @@ export const discoutProducts = [
     productName: "Rivet Bigelow Modern Sofa",
     imgUrl: productImg02,
     category: "sofa",
-    price: 253,
+    price: 2530,
     discount: 20,
     shortDesc: "Upgrade your living space with the Rivet Bigelow Modern Sofa.",
     description: "Experience luxury with the Rivet Bigelow Modern Sofa. Its sleek design and premium upholstery provide both comfort and sophistication.",
@@ -131,7 +131,7 @@ export const discoutProducts = [
     productName: "Baltsar Chair",
     imgUrl: productImg08,
     category: "chair",
-    price: 89,
+    price: 890,
     discount: 15,
     shortDesc: "Add a touch of elegance with the Baltsar Chair.",
     description: "The Baltsar Chair combines style and comfort seamlessly. Its unique design and durable construction make it a perfect addition to any room.",
@@ -152,7 +152,7 @@ export const discoutProducts = [
     productName: "Helmar Chair",
     imgUrl: productImg09,
     category: "chair",
-    price: 112,
+    price: 1120,
     discount: 35,
     shortDesc: "The Helmar Chair - Where comfort meets sophistication.",
     description: "Indulge in luxury with the Helmar Chair. Its plush cushions and modern design create the perfect blend of comfort and style.",
@@ -173,7 +173,7 @@ export const discoutProducts = [
     productName: "Realme 8",
     imgUrl: phone03,
     category: "mobile",
-    price: 599,
+    price: 5990,
     discount: 10,
     shortDesc: "Stay connected with the Realme 8 smartphone.",
     description: "The Realme 8 is a feature-packed smartphone designed to meet your daily needs. Its powerful performance and stunning display make it a reliable choice.",
@@ -194,7 +194,7 @@ export const discoutProducts = [
     productName: "OnePlus Nord",
     imgUrl: phone04,
     category: "mobile",
-    price: 799,
+    price: 7990,
     discount: 5,
     shortDesc: "Experience the power of the OnePlus Nord.",
     description: "The OnePlus Nord combines cutting-edge technology with a sleek design. Elevate your mobile experience with its impressive features and performance.",
@@ -219,7 +219,7 @@ export const products = [
     productName: "Stone and Beam Westview ",
     imgUrl: productImg01,
     category: "sofa",
-    price: 193,
+    price: 1930,
     shortDesc:
       "Introducing the Stone and Beam Westview Sofa, a perfect blend of style and comfort. Elevate your living space with this exquisite piece that combines modern design with timeless elegance. Crafted with precision, this sofa is sure to become the focal point of your home.",
     description:
@@ -238,7 +238,7 @@ export const products = [
     productName: "Rivet Bigelow Modern ",
     imgUrl: productImg02,
     category: "sofa",
-    price: 253,
+    price: 2530,
     shortDesc:
       "Experience modern comfort with the Rivet Bigelow Modern Sofa. This sleek and stylish sofa is designed to elevate your living space, providing both functionality and aesthetic appeal. Crafted with quality materials, it promises durability and long-lasting satisfaction.",
     description:
@@ -261,7 +261,7 @@ export const products = [
     productName: "Amazon Brand Modern Sofa",
     imgUrl: productImg03,
     category: "sofa",
-    price: 173,
+    price: 1730,
     shortDesc:
       "Upgrade your living space with the Amazon Brand Modern Sofa. Multimart brings you a seamless online shopping experience, and this sofa is a testament to convenience and quality. Discover the perfect blend of style and affordability.",
     description:
@@ -283,7 +283,7 @@ export const products = [
     productName: "Rivet Bigelow Modern ",
     imgUrl: productImg02,
     category: "sofa",
-    price: 253,
+    price: 2530,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -305,7 +305,7 @@ export const products = [
     productName: "Fllufy Sheep Sofa",
     imgUrl: productImg04,
     category: "sofa",
-    price: 163,
+    price: 1630,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -328,7 +328,7 @@ export const products = [
     productName: "Faux Velvet Sofa",
     imgUrl: productImg05,
     category: "sofa",
-    price: 163,
+    price: 1630,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -351,7 +351,7 @@ export const products = [
     productName: "Fllufy Sheep Sofa",
     imgUrl: productImg06,
     category: "sofa",
-    price: 163,
+    price: 1630,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -373,7 +373,7 @@ export const products = [
     productName: "Sakarias Armchair",
     imgUrl: productImg07,
     category: "chair",
-    price: 99,
+    price: 990,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -396,7 +396,7 @@ export const products = [
     productName: "Modern Arm Sofa",
     imgUrl: productImg007,
     category: "sofa",
-    price: 173,
+    price: 1730,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -419,7 +419,7 @@ export const products = [
     productName: "Baltsar Chair",
     imgUrl: productImg08,
     category: "chair",
-    price: 89,
+    price: 890,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -442,7 +442,7 @@ export const products = [
     productName: "Helmar Chair",
     imgUrl: productImg09,
     category: "chair",
-    price: 112,
+    price: 1120,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -465,7 +465,7 @@ export const products = [
     productName: "Apple iPhone 12 Pro",
     imgUrl: phone01,
     category: "mobile",
-    price: 799,
+    price: 7990,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -487,7 +487,7 @@ export const products = [
     productName: "Sakarias Armchair",
     imgUrl: productImg10,
     category: "chair",
-    price: 99,
+    price: 990,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -509,7 +509,7 @@ export const products = [
     productName: "Apple iPhone 12 Max",
     imgUrl: phone02,
     category: "mobile",
-    price: 799,
+    price: 7990,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -532,7 +532,7 @@ export const products = [
     productName: "Realme 8",
     imgUrl: phone03,
     category: "mobile",
-    price: 599,
+    price: 5990,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -555,7 +555,7 @@ export const products = [
     productName: "One Plus Nord",
     imgUrl: phone04,
     category: "mobile",
-    price: 799,
+    price: 7990,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -578,7 +578,7 @@ export const products = [
     productName: "Apple iPhone 13 Pro",
     imgUrl: phone05,
     category: "mobile",
-    price: 899,
+    price: 8990,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -601,7 +601,7 @@ export const products = [
     productName: "Samsung Galaxy S22",
     imgUrl: phone06,
     category: "mobile",
-    price: 699,
+    price: 6990,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -624,7 +624,7 @@ export const products = [
     productName: "Rolex Watch",
     imgUrl: watch01,
     category: "watch",
-    price: 299,
+    price: 2990,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -647,7 +647,7 @@ export const products = [
     productName: "Timex Easy Reader Watch",
     imgUrl: watch02,
     category: "watch",
-    price: 299,
+    price: 2990,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -670,7 +670,7 @@ export const products = [
     productName: "Rolex Watch",
     imgUrl: watch03,
     category: "watch",
-    price: 299,
+    price: 2990,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -693,7 +693,7 @@ export const products = [
     productName: "Apple Watch",
     imgUrl: watch04,
     category: "watch",
-    price: 399,
+    price: 3990,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -716,7 +716,7 @@ export const products = [
     productName: "Beat Studio Wireless",
     imgUrl: wireless01,
     category: "wireless",
-    price: 199,
+    price: 1990,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -739,7 +739,7 @@ export const products = [
     productName: "Beat EP Headphones",
     imgUrl: wireless03,
     category: "wireless",
-    price: 199,
+    price: 1990,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -761,7 +761,7 @@ export const products = [
     productName: "Black Headphones",
     imgUrl: wireless02,
     category: "wireless",
-    price: 169,
+    price: 1690,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:
@@ -783,7 +783,7 @@ export const products = [
     productName: "Bluetooth Headphones",
     imgUrl: wireless04,
     category: "wireless",
-    price: 139,
+    price: 1390,
     shortDesc:
       "Welcome to Multimart, your one-stop destination for a seamless online shopping experience. Discover a world of convenience and quality products, curated just for you.",
     description:

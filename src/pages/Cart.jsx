@@ -81,7 +81,7 @@ const Cart = () => {
               <h2>Cart Summary</h2>
               <div className=" d_flex">
                 <h4>Total Price :</h4>
-                <h3>${totalPrice}.00</h3>
+                <h3>₹{totalPrice}.00</h3>
               </div>
             </div>
           </Col>
